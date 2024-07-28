@@ -17,8 +17,6 @@ AutoEDA is an open-source Python application designed to streamline the process 
 
 Demo Video Link : https://www.youtube.com/watch?v=juFZdLSxiQs&t=29s
 
-## Contibutions
-AutoEDA is an open-source project, and I welcome contributions from the community. You can help by reporting issues, contributing code, or suggesting new features.
 
 
 
