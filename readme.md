@@ -1,8 +1,7 @@
 # AutoML: Automated Exploratory Data Analysis and Modeling
 
-<!-- ![AutoEDA Logo](insert your logo URL here) -->
 
-AutoEDA is an open-source Python application designed to streamline the process of Exploratory Data Analysis (EDA) and modeling using Machine Learning Algorithms for data scientists, analysts, and anyone working with data. EDA is a crucial step in understanding your dataset, finding patterns, and preparing data for further analysis. AutoML simplifies this process by providing an interactive web-based platform to explore, visualize, and preprocess and model your data effortlessly.
+AutoML is an open-source Python application designed to streamline the process of Exploratory Data Analysis (EDA) and modeling using Machine Learning Algorithms for data scientists, analysts, and anyone working with data. EDA is a crucial step in understanding your dataset, finding patterns, and preparing data for further analysis. AutoML simplifies this process by providing an interactive web-based platform to explore, visualize, and preprocess and model your data effortlessly.
 
 
 ## Key Features
